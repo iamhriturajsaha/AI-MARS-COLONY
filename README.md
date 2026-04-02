@@ -97,6 +97,30 @@ The system generates intelligent insights such as -
 * Coach performance evaluation.
 This enhances interpretability beyond raw predictions.
 
+## 📅 Visualizations
+<table>
+  <tr>
+    <td align="center"><img src="Visualizations/1.png" width="500"></td>
+    <td align="center"><img src="Visualizations/2.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/3.png" width="500"></td>
+    <td align="center"><img src="Visualizations/4.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/5.png" width="500"></td>
+    <td align="center"><img src="Visualizations/6.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/7.png" width="500"></td>
+    <td align="center"><img src="Visualizations/8.png" width="500"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Visualizations/9.png" width="500"></td>
+    <td align="center"><img src="Visualizations/10.png" width="500"></td>
+  </tr>
+</table>
+
 ## 💡 Future Improvements
 * 🔥 Real GPT-based commentary (LLM integration).
 * 📊 SHAP explainability dashboard.

@@ -14,6 +14,8 @@
   <img src="Streamlit Images/5.png" alt="5" width="1000"/><br>
   <img src="Streamlit Images/6.png" alt="6" width="1000"/><br>
   <img src="Streamlit Images/7.png" alt="7" width="1000"/><br>
+  <img src="Streamlit Images/8.png" alt="8" width="1000"/><br>
+  <img src="Streamlit Images/9.png" alt="9" width="1000"/><br>
 </p>
 
 ## 🎯 Key Features

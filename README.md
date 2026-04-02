@@ -1,13 +1,22 @@
 # ⚽FIFA AI Analytics Engine
 
 ## 🚀 Overview
-
 - The FIFA AI Analytics Engine is an AI-powered analytics platform designed to evaluate and predict football performance across multiple entities — players, teams and coaches.
 - This project leverages Machine Learning and Deep Learning models combined with an interactive Streamlit dashboard to deliver real-time predictions, intelligent insights and visual analytics.
 - It is built as a full-stack AI application, showcasing end-to-end capabilities from data processing and modeling to deployment.
 
-## 🎯 Key Features
+## Quick Glance
+<p align="center">
+  <img src="Streamlit Images/1.png" alt="1" width="1000"/><br>
+  <img src="Streamlit Images/2.png" alt="2" width="1000"/><br>
+  <img src="Streamlit Images/3.png" alt="3" width="1000"/><br>
+  <img src="Streamlit Images/4.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Images/5.png" alt="5" width="1000"/><br>
+  <img src="Streamlit Images/6.png" alt="6" width="1000"/><br>
+  <img src="Streamlit Images/7.png" alt="7" width="1000"/><br>
+</p>
 
+## 🎯 Key Features
 ### 👤 Player Intelligence
 Predict player overall rating using key attributes - 
 * Pace, Shooting, Passing, Dribbling, Defending, Physical.
@@ -41,7 +50,6 @@ Predict player overall rating using key attributes -
 * Fully responsive layout.
 
 ## 🧠 Tech Stack
-
 ### 🔹 Machine Learning
 * Scikit-learn (Team & Coach models).
 * TensorFlow / Keras (Player deep learning model).
@@ -58,7 +66,6 @@ Predict player overall rating using key attributes -
 * Streamlit.
 
 ## ⚙️ Installation & Setup
-
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/iamhriturajsaha/FIFA-AI-ANALYTICS-ENGINE.git
@@ -76,7 +83,6 @@ streamlit run app.py
 ```
 
 ## 📊 How It Works
-
 ### 🔹 Player Model
 * Deep Neural Network.
 * Input - Player attributes.
@@ -136,7 +142,6 @@ This enhances interpretability beyond raw predictions.
 * Hackathons and competitions.
 
 ## 🔥 Final Note
-
 This project demonstrates -
 * End-to-end ML pipeline development.
 * Multi-model system design.

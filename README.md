@@ -11,7 +11,7 @@ It is built as a full-stack AI application, showcasing end-to-end capabilities f
 
 ### 👤 Player Intelligence
 Predict player overall rating using key attributes - 
-  * Pace, Shooting, Passing, Dribbling, Defending, Physical.
+* Pace, Shooting, Passing, Dribbling, Defending, Physical.
 * Supports both male and female players.
 * Player archetype detection (Attacker, Playmaker, Defender).
 * AI-generated scouting commentary.

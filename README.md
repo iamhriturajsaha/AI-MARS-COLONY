@@ -1,17 +1,14 @@
 # ⚽FIFA AI Analytics Engine
 
 ## 🚀 Overview
-The FIFA AI Analytics Engine is an AI-powered analytics platform designed to evaluate and predict football performance across multiple entities — players, teams and coaches. 
 
-This project leverages Machine Learning and Deep Learning models combined with an interactive Streamlit dashboard to deliver real-time predictions, intelligent insights and visual analytics. 
-
-It is built as a full-stack AI application, showcasing end-to-end capabilities from data processing and modeling to deployment.
+The FIFA AI Analytics Engine is an AI-powered analytics platform designed to evaluate and predict football performance across multiple entities — players, teams and coaches. This project leverages Machine Learning and Deep Learning models combined with an interactive Streamlit dashboard to deliver real-time predictions, intelligent insights and visual analytics. It is built as a full-stack AI application, showcasing end-to-end capabilities from data processing and modeling to deployment.
 
 ## 🎯 Key Features
 
 ### 👤 Player Intelligence
 Predict player overall rating using key attributes - 
-* Pace, Shooting, Passing, Dribbling, Defending, Physical.
+  * Pace, Shooting, Passing, Dribbling, Defending, Physical.
 * Supports both male and female players.
 * Player archetype detection (Attacker, Playmaker, Defender).
 * AI-generated scouting commentary.
@@ -61,14 +58,15 @@ Predict player overall rating using key attributes -
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-
 ```bash
 git clone https://github.com/iamhriturajsaha/FIFA-AI-ANALYTICS-ENGINE.git
 cd FIFA-AI-ANALYTICS-ENGINE
 ```
 
-### 2️⃣ Run the Application
+### 2️⃣ Install Dependencies
+pip install -r requirements.txt
 
+### 3️⃣ Run the Application
 ```bash
 streamlit run app.py
 ```

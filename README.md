@@ -2,7 +2,9 @@
 
 ## 🚀 Overview
 The FIFA AI Analytics Engine is an AI-powered analytics platform designed to evaluate and predict football performance across multiple entities — players, teams and coaches. 
+
 This project leverages Machine Learning and Deep Learning models combined with an interactive Streamlit dashboard to deliver real-time predictions, intelligent insights and visual analytics. 
+
 It is built as a full-stack AI application, showcasing end-to-end capabilities from data processing and modeling to deployment.
 
 ## 🎯 Key Features

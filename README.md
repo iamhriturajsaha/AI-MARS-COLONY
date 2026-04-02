@@ -66,7 +66,9 @@ cd FIFA-AI-ANALYTICS-ENGINE
 ```
 
 ### 2️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Run the Application
 ```bash
